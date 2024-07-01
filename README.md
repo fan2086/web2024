@@ -39,17 +39,6 @@
 4. 新建学生信息、学生信息修改功能
 
 
-### 界面截图
-
-##### 学生信息模块
-[![学生信息模块截图](https://s1.ax1x.com/2023/06/24/pCtvjd1.png)](https://imgse.com/i/pCtvjd1)
-[![新建学生信息页面](https://s1.ax1x.com/2023/06/24/pCtvbM4.png)](https://imgse.com/i/pCtvbM4)
-[![修改学生信息页面](https://s1.ax1x.com/2023/06/24/pCtvLL9.png)](https://imgse.com/i/pCtvLL9)
-
-##### 课程信息模块
-[![课程信息模块截图](https://s1.ax1x.com/2023/06/24/pCtvIiV.png)](https://imgse.com/i/pCtvIiV)
-[![新建课程信息页面](https://s1.ax1x.com/2023/06/24/pCtv7zF.png)](https://imgse.com/i/pCtv7zF)
-[![修改课程信息页面](https://s1.ax1x.com/2023/06/24/pCtvqsJ.png)](https://imgse.com/i/pCtvqsJ)
 
 #### Gitee Feature
 1.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
