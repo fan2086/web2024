@@ -1,4 +1,4 @@
-from aiohttp import web
+from aiohttp import web # type: ignore
 import datetime
 from serv.json_util import json_response, json_error
 from .config import web_routes
