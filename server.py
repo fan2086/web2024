@@ -1,4 +1,4 @@
-from aiohttp import web
+from aiohttp import web # type: ignore
 from serv.config import web_routes
 
 import serv.grade
